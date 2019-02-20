@@ -1,8 +1,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
-# A dashboard to manage CP task statements on [HackMD](hackmd.io) for Contest Management System
+# A dashboard to manage CP task statements on [HackMD](https://hackmd.io) for Contest Management System
 
-This dashboard helps you manage your CP task statements on [HackMD](hackmd.io), converting markdown to pdf with LaTeX, and syncing task statement in Contest Management System ([CMS](https://github.com/cms-dev/cms)).
+This dashboard helps you manage your CP task statements on [HackMD](https://hackmd.io), converting markdown to pdf with LaTeX, and syncing task statement in Contest Management System ([CMS](https://github.com/cms-dev/cms)).
 
 ### Example
 
